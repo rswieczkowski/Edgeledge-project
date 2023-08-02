@@ -1,4 +1,4 @@
-/* Text Colors */
+//* Text colors */
 .text-primary {
   color: #28a745;
 }
@@ -13,7 +13,7 @@
   display: inline-block;
   padding: 10px 30px;
   color: #fff;
-  background: #28a745;
+  background-color: #28a745;
   border: none;
   border-radius: 5px;
 }
@@ -27,19 +27,16 @@
   background: #28a745;
   color: #fff;
 }
-
 .btn-secondary,
 .bg-secondary {
   background: #0284d0;
   color: #fff;
 }
-
 .btn-dark,
 .bg-dark {
   background: #333;
   color: #fff;
 }
-
 .btn-light,
 .bg-light {
   background: #f4f4f4;
